@@ -1,0 +1,72 @@
+
+> mysqldemo@0.0.0 start /home/ubuntu/sql_project
+> node ./bin/www
+
+connecting success
+[0mGET / [32m200 [0m21.762 ms - 14752[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.792 ms - -[0m
+[0mGET /q1 [36m304 [0m6.992 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.559 ms - -[0m
+[0mGET /q1 [36m304 [0m5.515 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.328 ms - -[0m
+[0mGET / [36m304 [0m2.907 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.330 ms - -[0m
+[0mGET /add [36m304 [0m3.123 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.512 ms - -[0m
+[0mGET / [32m200 [0m6.389 ms - 14715[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.315 ms - -[0m
+[0mGET / [36m304 [0m3.720 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.324 ms - -[0m
+[0mGET /program [32m200 [0m6.323 ms - 48201[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.371 ms - -[0m
+[0mGET / [36m304 [0m5.099 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.342 ms - -[0m
+[0mGET /q1 [36m304 [0m3.292 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.374 ms - -[0m
+[0mGET / [36m304 [0m2.511 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.344 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.607 ms - -[0m
+[0mGET / [32m200 [0m6.703 ms - 14715[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.728 ms - -[0m
+[0mGET / [32m200 [0m5.106 ms - 14715[0m
+
+> mysqldemo@0.0.0 start /home/ubuntu/sql_project
+> node ./bin/www
+
+connecting success
+
+> mysqldemo@0.0.0 start /home/ubuntu/sql_project
+> node ./bin/www
+
+connecting success
+[0mGET /stylesheets/style.css [36m304 [0m6.353 ms - -[0m
+[0mGET / [36m304 [0m26.375 ms - -[0m
+[0mGET / [32m200 [0m4.872 ms - 14715[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.888 ms - 1364[0m
+[0mGET / [36m304 [0m4.317 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.432 ms - -[0m
+[0mGET /field [32m200 [0m4.249 ms - 9937[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.271 ms - -[0m
+[0mGET / [36m304 [0m2.365 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.506 ms - -[0m
+[0mGET /program [32m200 [0m9.971 ms - 48201[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.310 ms - -[0m
+[0mGET / [32m200 [0m2.601 ms - 14715[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.578 ms - 1364[0m
+[0mGET / [36m304 [0m2.740 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.721 ms - -[0m
+[0mGET /langEdit?id=001 [32m200 [0m3.153 ms - 8059[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.326 ms - -[0m
+[0mGET / [36m304 [0m2.687 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.357 ms - -[0m
+[0mGET / [36m304 [0m5.542 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.875 ms - -[0m
+[0mGET / [36m304 [0m4.492 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.383 ms - -[0m
+[0mGET /field [36m304 [0m3.908 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.343 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.552 ms - -[0m
+[0mGET / [36m304 [0m6.047 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.479 ms - -[0m
+[0mGET /q1 [36m304 [0m4.352 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.341 ms - -[0m
