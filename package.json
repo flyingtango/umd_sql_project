@@ -11,7 +11,7 @@
     "@google/maps": "^0.5.5",
     "body-parser": "~1.15.1",
     "canvas": "^2.1.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
     "datamaps": "^0.5.9",
