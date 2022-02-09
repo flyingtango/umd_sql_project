@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3173821 */
+  src: url('//at.alicdn.com/t/font_3173821_5i4qou2jm0o.woff2?t=1644390838588') format('woff2'),
+       url('//at.alicdn.com/t/font_3173821_5i4qou2jm0o.woff?t=1644390838588') format('woff'),
+       url('//at.alicdn.com/t/font_3173821_5i4qou2jm0o.ttf?t=1644390838588') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 32px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Householdappliances:before {
+  content: "\e753";
+}
+
+.icon-kitchen:before {
+  content: "\e755";
+}
+
+.icon-broom-solid:before {
+  content: "\e63a";
+}
+
+.icon-cook:before {
+  content: "\e6e7";
+}
